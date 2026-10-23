@@ -1,6 +1,6 @@
 # Explorer le futur de l'Intelligence Artificielle
 
-![Illustration Intelligence Artificielle](https://images.unsplash.com/photo-1677442136019-21780efad99a?q=80&w=1200&auto=format&fit=crop)
+![Illustration Intelligence Artificielle](https://tamento.com/wp-content/uploads/laurent_galichet_Minimalistic_photo_symbolizing_learning_with_cd125a77-11ed-48b1-86c1-31b90b7fa8a5_0.png)
 
 Bienvenue sur **The AI Frontier**. Ce site est un espace dédié à la veille, à l'expérimentation et à la découverte des avancées majeures qui façonnent le monde de l'intelligence artificielle et du développement logiciel.
 
